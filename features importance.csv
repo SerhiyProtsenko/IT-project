@@ -1,0 +1,45 @@
+,Features_name,best_ard.coef_
+24,Present and sign,0.633836274365127
+34,Prepare a risk status tracking,0.502599998861429
+18,Prepare a money and time estimate based on the specification and the design mock-ups,0.448622730725397
+14,Prepare design mock ups based on the sketches,0.430643533854854
+10,Present ROM to the client and approve,0.429182183657044
+17,Present acceptance criteria to the client and approve,0.406344020174648
+38,Present WBS to the client and approve,0.326679011322562
+22,Present the risk management report to the client,0.211259631719073
+37,"Prepare a detailed project plan based on the WBD, the resource schedule, the risk management plan",0.111276535848449
+35,"Document, which will be updated during the project period",0.092061147993263
+26,Plan acquisition of additional resources (if required),0.073296177483801
+30,Assign tasks to team members (if required),0.024711210529606
+3,Prepare pre-project questionnaire,0.003221380134652
+16,Prepare an acceptance criteria based on the specification and the design mock-ups,0.001494707431554
+12,Prepare a specification contract,0.000992157245305
+11,Prepare a plan for specification phase,0.000471566412526
+20,Conduct risk analysis and define mitigation measures,8.06774791788598E-05
+28,Schedule resource involvement,6.9455089679976E-05
+15,Present design to the client and approve,0
+27,Plan education of new human resources (if required),0
+32,Prepare a detailed hours break down based on the WBS and the final estimate,0
+1,Organize first client meeting and make meeting notes,0
+31,Prepare a detailed work breakdown structure.1,0
+8,Conduct feasibility study,0
+6,Present sketch to the prospect client and approve,0
+4,Gather information for a brief and answers for questionnaire,0
+33,"Prepare a risk management plan (mitigation measures, responsible people, deadlines, etc) based on the risk management report",0
+39,Check that everything is ready to start development and receive final approval from the client,-0.000320196792794
+7,Present to PM,-0.000358377288634
+23,Prepare a project contract,-0.000373351917814
+5,Prepare a brief + sketches,-0.00040823263943
+29,Prepare a detailed work breakdown structure,-0.00081122196238
+2,Present notes about the prospect project to PM,-0.065611737927879
+36,"Prepare a risk management plan (mitigation measures, responsible people, deadlines, etc) based on the risk management report.1",-0.152067846808648
+9,Prepare a ROM estimate based on the brief and the sketches,-0.223452013727098
+0,Phone call,-0.263084705939559
+25,"Resource availability analysis (human resources, software, etc.)",-0.377619267887782
+21,Prepare a risk management report,-0.445235970863037
+13,Prepare a specification based on the brief,-0.777098652924566
+19,Present estimation to the client and approve,-0.853152851582942
+,,
+,,
+,,
+,"Смело грохни коеффіцієнти жолтие , они очень маленькие и по сути не влияют",
